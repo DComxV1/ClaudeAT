@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+paper_portfolio.json
